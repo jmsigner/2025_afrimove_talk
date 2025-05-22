@@ -1,4 +1,4 @@
-# Talk at AfriMove Meeting
+# Talk at the AfriMove meeting:
 
-- A background to iSSFs
-- Some guided examples on fitting and interpretation of iSSFs.
+- Introduction to iSSFs
+- Some guided examples on fitting and interpreting iSSFs.
